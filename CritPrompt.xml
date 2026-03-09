@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<rss version="2.0"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+ 
+<channel>
+ 
+<title>Criterio Prompt</title>
+<link>https://criterio-prompt-rss.pages.dev</link>
+<description>Un espacio para entender mejor el mundo actual.</description>
+<language>es-mx</language>
+ 
+<itunes:author>Miguel Turner</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+ 
+<itunes:owner>
+<itunes:name>Miguel Turner</itunes:name>
+<itunes:email>miguelturner@gmail.com</itunes:email>
+</itunes:owner>
+ 
+<itunes:image href="https://criterio-prompt-rss.pages.dev/cover.jpg"/>
+ 
+<itunes:category text="Technology"/>
+ 
+<item>
+ 
+<title>IA vs. Creatividad Humana: ¿Quién es el verdadero autor en la era digital?</title>
+ 
+<description>
+En este episodio de Criterio Prompt, desglosamos el creciente conflicto entre el ingenio humano y la generación de contenido por inteligencia artificial. Analizamos el impacto económico devastador en la industria musical, que proyecta pérdidas de hasta 180 millones de euros para 2028, y la lucha del gremio de doblaje contra la clonación de voz y los actores sintéticos. Además, exploramos la postura legal en México, donde instituciones como INDAUTOR y el TFJA mantienen que solo una 'persona física' puede ostentar la autoría, dejando a las obras creadas por IA en un limbo jurídico. Cerramos con una reflexión sobre la ética, la transparencia y la necesidad urgente de un marco legal que regule los deepfakes para evitar fraudes y proteger la identidad del creador original.</description>
+ 
+<link>https://criterio-prompt-rss.pages.dev/CritPrompt.xml</link>
+ 
+<enclosure
+url="https://drive.google.com/uc?export=download&amp;id=1-k81LCCFc2QzDe8eWrWGvg17bTNpvNJU"
+length="19818086"
+type="audio/mp4"/>
+ 
+<pubDate>Sun, 08 Mar 2026 12:00:00 GMT</pubDate>
+ 
+<guid>episodio-ia-creatividad</guid>
+ 
+</item>
+ 
+</channel>
+</rss>
