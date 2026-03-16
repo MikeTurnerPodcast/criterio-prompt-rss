@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Criterio Prompt</title>
-<link>https://criterio-prompt-rss2.pages.dev</link>
+<link>https://criterio-prompt-rss.pages.dev</link>
 <description>Un espacio para entender mejor el mundo actual.</description>
 <language>es-mx</language>
 
@@ -14,31 +14,31 @@
 <itunes:email>miguelturner@gmail.com</itunes:email>
 </itunes:owner>
 
-<itunes:image href="https://criterio-prompt-rss2.pages.dev/cover.jpg"/>
+<itunes:image href="https://criterio-prompt-rss.pages.dev/cover.jpg"/>
 <itunes:category text="Technology"/>
 
 <item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
-<link>https://criterio-prompt-rss2.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=1_i3OmhGjHDC_l078cvyxSW3qeXM0KIv3" length="1829518" type="audio/mp4"/>
+<title></title>
+<description></description>
 
-<guid>criterio-prompt-0</guid>
+<enclosure url="https://drive.google.com/uc?export=download&id=1QbMTBqcgYDn2i37V2s5izePNKhDLAt_X" length="25504982" type="audio/mp4"/>
 
-<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+<guid>criterio-prompt-</guid>
 
-<itunes:episode>0</itunes:episode>
+<pubDate></pubDate>
 
-<itunes:duration>0:00:56</itunes:duration>
+<itunes:episode></itunes:episode>
 
-<itunes:summary>Prueba de RSS</itunes:summary>
+<itunes:duration></itunes:duration>
+
+<itunes:summary></itunes:summary>
 
 
 </item>
 <item>
 <title>IA vs. Creatividad Humana: ¿Quién es el verdadero autor en la era digital?</title>
 <description>En este episodio de Criterio Prompt, desglosamos el creciente conflicto entre el ingenio humano y la generación de contenido por inteligencia artificial...</description>
-<link>https://criterio-prompt-rss2.pages.dev</link>
+<link>https://criterio-prompt-rss.pages.dev/CritPrompt.xml</link>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-k81LCCFc2QzDe8eWrWGvg17bTNpvNJU" length="19818086" type="audio/mp4"/>
 <pubDate>Sun, 08 Mar 2026 12:00:00 GMT</pubDate>
 <guid>episodio-ia-creatividad</guid>
