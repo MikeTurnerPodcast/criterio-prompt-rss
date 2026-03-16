@@ -20,7 +20,7 @@
 <item>
 <title>Prueba</title>
 <description>Esta es una prueba de automation. </description>
-<link>https://criterio-prompt-rss2.pages.dev</link>
+<link>https://criterio-prompt-rss2.pages.dev/CritPrompt.xml</link>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_i3OmhGjHDC_l078cvyxSW3qeXM0KIv3" length="1829518" type="audio/mp4"/>
 
 <guid>criterio-prompt-0</guid>
@@ -38,7 +38,7 @@
 <item>
 <title>IA vs. Creatividad Humana: ¿Quién es el verdadero autor en la era digital?</title>
 <description>En este episodio de Criterio Prompt, desglosamos el creciente conflicto entre el ingenio humano y la generación de contenido por inteligencia artificial...</description>
-<link>https://criterio-prompt-rss.pages.dev/CritPrompt.xml</link>
+<link>https://criterio-prompt-rss2.pages.dev/CritPrompt.xml</link>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-k81LCCFc2QzDe8eWrWGvg17bTNpvNJU" length="19818086" type="audio/mp4"/>
 <pubDate>Sun, 08 Mar 2026 12:00:00 GMT</pubDate>
 <guid>episodio-ia-creatividad</guid>
