@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Criterio Prompt</title>
-<link>https://criterio-prompt-rss2.pages.dev</link>
+<link>https://criterio-prompt-rss.pages.dev</link>
 <description>Un espacio para entender mejor el mundo actual.</description>
 <language>es-mx</language>
 
@@ -14,31 +14,33 @@
 <itunes:email>miguelturner@gmail.com</itunes:email>
 </itunes:owner>
 
-<itunes:image href="https://criterio-prompt-rss2.pages.dev/cover.jpg"/>
+<itunes:image href="https://criterio-prompt-rss.pages.dev/cover.jpg"/>
 <itunes:category text="Technology"/>
 
 <item>
-<title>Morir es opcional</title>
-<description>En este episodio de Criterio Prompt, exploramos cómo la convergencia de la Inteligencia Artificial y la Biotecnología está redefiniendo los límites de la vida humana. Analizamos conceptos fundamentales como el 'Healthspan Gap', la brecha de 9 años entre nuestra vida total y los años que vivimos con salud, y cómo la ciencia busca alcanzar la 'Velocidad de Escape de la Longevidad', donde sumamos más de un año de vida por cada año transcurrido.Descubre los avances en fármacos diseñados por IA como el INS018_055 para combatir la fibrosis, el uso de gemelos digitales para diagnósticos preventivos y la diferencia crucial entre senomórficos y senolíticos en la lucha contra el envejecimiento celular. ¡No te pierdas esta inmersión profunda en el futuro de la medicina digital y la terapéutica personalizada!Suscríbete ahora para no perderte las últimas tendencias en IA y tecnología. ¡Dale a la campanita y comparte tus dudas en los comentarios!</description>
-<link>https://criterio-prompt-rss2.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dy3XpqPOB0qRvr2ZT1y0n7dRaeDAgYQK" length="25504982" type="audio/mp4"/>
+<title>11. Cuando el algoritmo decide quien vive. La ética del prompt.</title>
+<description>En este episodio de Criterio Prompt, nos adentramos en el intrigante cruce entre la inteligencia artificial, la filosofía y la moral para desentrañar una de las preguntas más apremiantes de nuestro tiempo: ¿Puede realmente una máquina razonar éticamente? Exploraremos conceptos fundamentales como el argumento de la 'Habitación China', que cuestiona si la IA posee una verdadera comprensión o solo manipula símbolos, y la crucial distinción entre IA Débil e IA Fuerte.
+Nos sumergiremos en el 'Problema de los Qualia' para entender si las máquinas pueden alguna vez experimentar sensaciones subjetivas como el dolor, más allá de solo procesar datos. Además, analizaremos los complejos dilemas éticos a los que se enfrenta la IA, desde el clásico 'Dilema del Tranvía' y la confrontación entre el Utilitarismo y la Deontología, hasta los peligros inherentes a los sesgos algorítmicos que pueden amplificar prejuicios existentes. Descubre cómo iniciativas como la 'Alineación de Valores' (RLHF) buscan guiar a la IA hacia respuestas moralmente seguras. Finalmente, compararemos el juicio moral humano, basado en la empatía y la intuición, con el enfoque de la IA, regido por patrones y estadísticas, reflexionando sobre quién asume la responsabilidad ética en este nuevo paradigma. ¡Prepárate para un debate profundo sobre el futuro consciente de la IA!</description>
 
-<guid>criterio-prompt-13</guid>
+<link>https://criterio-prompt-rss2.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1CnGpWqVjGu4M5nxoDuwhqHzxe-9KTiva" length="42627277" type="audio/mp4"/>
+
+<guid>criterio-prompt-11</guid>
 
 <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
 
-<itunes:episode>13</itunes:episode>
+<itunes:episode>11</itunes:episode>
 
-<itunes:duration>0:19:12</itunes:duration>
+<itunes:duration>0:22:04</itunes:duration>
 
-<itunes:summary>¿Podemos vencer al envejecimiento? La ciencia de la Inmortalidad Digital y Celular</itunes:summary>
+<itunes:summary>Un episodio más introspectivo sobre la responsabilidad de quien interactúa con la máquina. Si la IA refleja nuestros sesgos, ¿es ella el espejo o nosotros la fuente?</itunes:summary>
 
 
 </item>
 <item>
 <title>IA vs. Creatividad Humana: ¿Quién es el verdadero autor en la era digital?</title>
 <description>En este episodio de Criterio Prompt, desglosamos el creciente conflicto entre el ingenio humano y la generación de contenido por inteligencia artificial...</description>
-<link>https://criterio-prompt-rss2.pages.dev</link>
+<link>https://criterio-prompt-rss.pages.dev/CritPrompt.xml</link>
 <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-k81LCCFc2QzDe8eWrWGvg17bTNpvNJU" length="19818086" type="audio/mp4"/>
 <pubDate>Sun, 08 Mar 2026 12:00:00 GMT</pubDate>
 <guid>episodio-ia-creatividad</guid>
