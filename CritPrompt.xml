@@ -21,7 +21,7 @@
 <title>Prueba</title>
 <description>Esta es una prueba de automation. </description>
 
-<enclosure url="https://drive.google.com/uc?export=download&id=1_i3OmhGjHDC_l078cvyxSW3qeXM0KIv3" length="1829518" type="audio/mp4"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1_i3OmhGjHDC_l078cvyxSW3qeXM0KIv3" length="1829518" type="audio/mp4"/>
 
 <guid>criterio-prompt-0</guid>
 
