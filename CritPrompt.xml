@@ -20,65 +20,9 @@
 
 
 
-<!--Nuevo Episodio--><item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
+<!--Nuevo Episodio-->
 
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
-
-<guid>criterio-prompt-0</guid>
-
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>0</itunes:episode>
-
-<itunes:duration>0:00:56</itunes:duration>
-
-<itunes:summary>Prueba de RSS</itunes:summary>
-
-
-</item>
-<item>
-<title>11. Cuando el algoritmo decide quien vive. La ética del prompt.</title>
-<description>En este episodio de Criterio Prompt, nos adentramos en el intrigante cruce entre la inteligencia artificial, la filosofía y la moral para desentrañar una de las preguntas más apremiantes de nuestro tiempo: ¿Puede realmente una máquina razonar éticamente? Exploraremos conceptos fundamentales como el argumento de la 'Habitación China', que cuestiona si la IA posee una verdadera comprensión o solo manipula símbolos, y la crucial distinción entre IA Débil e IA Fuerte.
-Nos sumergiremos en el 'Problema de los Qualia' para entender si las máquinas pueden alguna vez experimentar sensaciones subjetivas como el dolor, más allá de solo procesar datos. Además, analizaremos los complejos dilemas éticos a los que se enfrenta la IA, desde el clásico 'Dilema del Tranvía' y la confrontación entre el Utilitarismo y la Deontología, hasta los peligros inherentes a los sesgos algorítmicos que pueden amplificar prejuicios existentes. Descubre cómo iniciativas como la 'Alineación de Valores' (RLHF) buscan guiar a la IA hacia respuestas moralmente seguras. Finalmente, compararemos el juicio moral humano, basado en la empatía y la intuición, con el enfoque de la IA, regido por patrones y estadísticas, reflexionando sobre quién asume la responsabilidad ética en este nuevo paradigma. ¡Prepárate para un debate profundo sobre el futuro consciente de la IA!</description>
-
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=1CnGpWqVjGu4M5nxoDuwhqHzxe-9KTiva" length="42627277" type="audio/mp4"/>
-
-<guid>criterio-prompt-11</guid>
-
-<pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>11</itunes:episode>
-
-<itunes:duration>0:22:04</itunes:duration>
-
-<itunes:summary>Un episodio más introspectivo sobre la responsabilidad de quien interactúa con la máquina. Si la IA refleja nuestros sesgos, ¿es ella el espejo o nosotros la fuente?</itunes:summary>
-
-
-</item>  
   
-<item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
-
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
-
-<guid>criterio-prompt-0</guid>
-
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>0</itunes:episode>
-
-<itunes:duration>0:00:56</itunes:duration>
-
-<itunes:summary>Prueba de RSS</itunes:summary>
-
-
-</item>
 <item>
 <title>15. Como la IA está afectando a adolescentes</title>
 <description>En este episodio, analizamos el impacto profundo que la Inteligencia Artificial y las pantallas están teniendo en nuestra estructura cerebral y en la calidad de nuestros vínculos sociales. ¿Estamos delegando demasiado nuestra capacidad de pensar?
@@ -105,25 +49,7 @@ Nos sumergiremos en el 'Problema de los Qualia' para entender si las máquinas p
 
 </item>
 
-<item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
 
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
-
-<guid>criterio-prompt-0</guid>
-
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>0</itunes:episode>
-
-<itunes:duration>0:00:56</itunes:duration>
-
-<itunes:summary>Prueba de RSS</itunes:summary>
-
-
-</item>
 <item>
 <title>14. Tecnologia y Guerra</title>
 <description>¿Estamos preparados para una guerra dirigida por algoritmos? En este episodio de Criterio Prompt, exploramos 'La Era de la Guerra Algorítmica'. Analizamos cómo la Inteligencia Artificial está transformando el campo de batalla moderno, ofreciendo una superioridad técnica sin precedentes al comprimir los tiempos de decisión mediante algoritmos avanzados. Sin embargo, no todo es eficiencia técnica; nos adentramos en los profundos dilemas éticos y los riesgos críticos que conlleva delegar la identificación de objetivos a sistemas automatizados. ¿Cuál es el verdadero costo humano y civil de un error de cálculo algorítmico? Acompáñanos en esta conversación esencial sobre el futuro de la defensa, la tecnología y la preservación del factor humano en los conflictos globales del siglo XXI. ¡Descubre el balance entre innovación bélica y responsabilidad moral!</description>
@@ -144,25 +70,7 @@ Nos sumergiremos en el 'Problema de los Qualia' para entender si las máquinas p
 
 </item>
 
-<item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
 
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
-
-<guid>criterio-prompt-0</guid>
-
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>0</itunes:episode>
-
-<itunes:duration>0:00:56</itunes:duration>
-
-<itunes:summary>Prueba de RSS</itunes:summary>
-
-
-</item>
 <item>
 <title>9. Será el reciclaje la verdadera solución? </title>
 <description>
@@ -186,25 +94,6 @@ En este episodio de Criterio Prompt, desmenuzamos el alarmante panorama revelado
 
 
 <item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
-
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
-
-<guid>criterio-prompt-0</guid>
-
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>0</itunes:episode>
-
-<itunes:duration>0:00:56</itunes:duration>
-
-<itunes:summary>Prueba de RSS</itunes:summary>
-
-
-</item>
-<item>
 <title>11. Cuando el algoritmo decide quien vive. La ética del prompt.</title>
 <description>En este episodio de Criterio Prompt, nos adentramos en el intrigante cruce entre la inteligencia artificial, la filosofía y la moral para desentrañar una de las preguntas más apremiantes de nuestro tiempo: ¿Puede realmente una máquina razonar éticamente? Exploraremos conceptos fundamentales como el argumento de la 'Habitación China', que cuestiona si la IA posee una verdadera comprensión o solo manipula símbolos, y la crucial distinción entre IA Débil e IA Fuerte.
 Nos sumergiremos en el 'Problema de los Qualia' para entender si las máquinas pueden alguna vez experimentar sensaciones subjetivas como el dolor, más allá de solo procesar datos. Además, analizaremos los complejos dilemas éticos a los que se enfrenta la IA, desde el clásico 'Dilema del Tranvía' y la confrontación entre el Utilitarismo y la Deontología, hasta los peligros inherentes a los sesgos algorítmicos que pueden amplificar prejuicios existentes. Descubre cómo iniciativas como la 'Alineación de Valores' (RLHF) buscan guiar a la IA hacia respuestas moralmente seguras. Finalmente, compararemos el juicio moral humano, basado en la empatía y la intuición, con el enfoque de la IA, regido por patrones y estadísticas, reflexionando sobre quién asume la responsabilidad ética en este nuevo paradigma. ¡Prepárate para un debate profundo sobre el futuro consciente de la IA!</description>
@@ -226,25 +115,7 @@ Nos sumergiremos en el 'Problema de los Qualia' para entender si las máquinas p
 </item>
 
 
-<item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
 
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
-
-<guid>criterio-prompt-0</guid>
-
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>0</itunes:episode>
-
-<itunes:duration>0:00:56</itunes:duration>
-
-<itunes:summary>Prueba de RSS</itunes:summary>
-
-
-</item>
 <item>
 <title>10.Therians, ¿moda o trastorno?</title>
 <description>En este episodio de Criterio Prompt, nos adentramos en el fascinante y a menudo malentendido fenómeno Therian. Exploraremos qué significa tener una 'identidad Therian', una percepción interna e inmutable de ser, en esencia, un animal atrapado en un cuerpo humano, y cómo se distingue claramente del movimiento Furry. Desglosaremos el concepto de 'Theriotipo', las prácticas como el Quadrobics y el uso de accesorios como herramientas de expresión que no son obligatorias. Abordaremos la percepción social actual, incluyendo datos de México que revelan un 70% de rechazo al reconocimiento social, y desmentiremos la idea de que es un trastorno mental. Además, ofreceremos una guía esencial para padres y expertos sobre cómo fomentar una comunicación libre de juicios y cuándo buscar ayuda profesional, promoviendo la validación y el entendimiento de esta identidad única.</description>
@@ -264,25 +135,7 @@ Nos sumergiremos en el 'Problema de los Qualia' para entender si las máquinas p
 
 
 </item>
-<item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
 
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
-
-<guid>criterio-prompt-0</guid>
-
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>0</itunes:episode>
-
-<itunes:duration>0:00:56</itunes:duration>
-
-<itunes:summary>Prueba de RSS</itunes:summary>
-
-
-</item>
 <item>
 <title>13.Morir es opcional</title>
 <description>En este episodio de Criterio Prompt, exploramos cómo la convergencia de la Inteligencia Artificial y la Biotecnología está redefiniendo los límites de la vida humana. Analizamos conceptos fundamentales como el 'Healthspan Gap', la brecha de 9 años entre nuestra vida total y los años que vivimos con salud, y cómo la ciencia busca alcanzar la 'Velocidad de Escape de la Longevidad', donde sumamos más de un año de vida por cada año transcurrido.Descubre los avances en fármacos diseñados por IA como el INS018_055 para combatir la fibrosis, el uso de gemelos digitales para diagnósticos preventivos y la diferencia crucial entre senomórficos y senolíticos en la lucha contra el envejecimiento celular. ¡No te pierdas esta inmersión profunda en el futuro de la medicina digital y la terapéutica personalizada!Suscríbete ahora para no perderte las últimas tendencias en IA y tecnología. ¡Dale a la campanita y comparte tus dudas en los comentarios!</description>
@@ -302,25 +155,7 @@ Nos sumergiremos en el 'Problema de los Qualia' para entender si las máquinas p
 
 
 </item>
-<item>
-<title>Prueba</title>
-<description>Esta es una prueba de automation. </description>
 
-<link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
-
-<guid>criterio-prompt-0</guid>
-
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-
-<itunes:episode>0</itunes:episode>
-
-<itunes:duration>0:00:56</itunes:duration>
-
-<itunes:summary>Prueba de RSS</itunes:summary>
-
-
-</item>
 <item>
 <title>IA vs. Creatividad Humana: ¿Quién es el verdadero autor en la era digital?</title>
 <description>En este episodio de Criterio Prompt, desglosamos el creciente conflicto entre el ingenio humano y la generación de contenido por inteligencia artificial...</description>
