@@ -25,21 +25,27 @@
 
 <!--Nuevo Episodio-->
 <item>
-<title>14. Tecnologia y Guerra</title>
-<description>¿Estamos preparados para una guerra dirigida por algoritmos? En este episodio de Criterio Prompt, exploramos 'La Era de la Guerra Algorítmica'. Analizamos cómo la Inteligencia Artificial está transformando el campo de batalla moderno, ofreciendo una superioridad técnica sin precedentes al comprimir los tiempos de decisión mediante algoritmos avanzados. Sin embargo, no todo es eficiencia técnica; nos adentramos en los profundos dilemas éticos y los riesgos críticos que conlleva delegar la identificación de objetivos a sistemas automatizados. ¿Cuál es el verdadero costo humano y civil de un error de cálculo algorítmico? Acompáñanos en esta conversación esencial sobre el futuro de la defensa, la tecnología y la preservación del factor humano en los conflictos globales del siglo XXI. ¡Descubre el balance entre innovación bélica y responsabilidad moral!</description>
+<title>15. Como la IA está afectando a adolescentes</title>
+<description>En este episodio, analizamos el impacto profundo que la Inteligencia Artificial y las pantallas están teniendo en nuestra estructura cerebral y en la calidad de nuestros vínculos sociales. ¿Estamos delegando demasiado nuestra capacidad de pensar?
+​Puntos clave de este episodio:
+​El Costo Cognitivo: ¿Qué sucede cuando la IA hace el trabajo pesado por nosotros? Exploramos el concepto de la "mente hipoactiva" y la pérdida de la curiosidad natural.
+​Escritura a Mano vs. Digital: Por qué el lápiz y el papel siguen siendo superiores para el aprendizaje profundo frente a la eficiencia del teclado.
+​Colonización Algorítmica: El peligro de usar las pantallas como "tapones emocionales" en la infancia y cómo los algoritmos están diseñando consumidores en lugar de pensadores.
+​El Camino a la Solución: Estrategias para usar la tecnología como un potenciador de la productividad sin sacrificar el juicio ético ni la conexión humana.
+​Acompáñanos en esta reflexión necesaria sobre cómo mantener nuestra esencia humana en un mundo cada vez más automatizado.</description>
 
 <link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=1BmaAPlQ6srgFpNC5z0H-JHjMh0wP0WXc" length="27369539" type="audio/mp4"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1LilEPUAYPMUjW3LNJxFUdSAz79w9pjop" length="21524747" type="audio/mp4"/>
 
-<guid>criterio-prompt-14</guid>
+<guid>criterio-prompt-15</guid>
 
-<pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+<pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
 
-<itunes:episode>14</itunes:episode>
+<itunes:episode>15</itunes:episode>
 
-<itunes:duration>0:14:10</itunes:duration>
+<itunes:duration>0:11:08</itunes:duration>
 
-<itunes:summary>Análisis del impacto de la IA en la guerra moderna, contrastando la ventaja estratégica de la toma de decisiones acelerada frente a los graves dilemas éticos y el potencial riesgo de errores con alto costo para la población civil.</itunes:summary>
+<itunes:summary>Este episodio examina cómo la integración masiva de la IA y las pantallas transforma el cerebro humano. Se analiza la "mente hipoactiva" derivada de delegar tareas cognitivas, el contraste entre el aprendizaje profundo de la escritura manual frente a la digital, y el riesgo de la "colonización algorítmica" en el desarrollo infantil. Finalmente, se propone un modelo de uso tecnológico que potencie la productividad sin sustituir el criterio propio ni los vínculos afectivos.</itunes:summary>
 
 
 </item>
