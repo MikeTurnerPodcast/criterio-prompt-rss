@@ -20,7 +20,27 @@
 
 
 
+
 <!--Nuevo Episodio-->
+<item>
+<title></title>
+<description></description>
+
+<link>https://criterio-prompt-rss3.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=14CL8Y2wSfQ-Dr-SwVLmofSzJvqLaewwW" length="25504982" type="audio/mp4"/>
+
+<guid>criterio-prompt-</guid>
+
+<pubDate></pubDate>
+
+<itunes:episode></itunes:episode>
+
+<itunes:duration></itunes:duration>
+
+<itunes:summary></itunes:summary>
+
+
+</item>
 
   
 <item>
