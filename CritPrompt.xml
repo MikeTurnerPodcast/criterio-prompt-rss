@@ -25,46 +25,41 @@
 
 <!--Nuevo Episodio-->
 <item>
-<title>15. Como la IA está afectando a adolescentes</title>
-<description>En este episodio, analizamos el impacto profundo que la Inteligencia Artificial y las pantallas están teniendo en nuestra estructura cerebral y en la calidad de nuestros vínculos sociales. ¿Estamos delegando demasiado nuestra capacidad de pensar?
-​Puntos clave de este episodio:
-​El Costo Cognitivo: ¿Qué sucede cuando la IA hace el trabajo pesado por nosotros? Exploramos el concepto de la "mente hipoactiva" y la pérdida de la curiosidad natural.
-​Escritura a Mano vs. Digital: Por qué el lápiz y el papel siguen siendo superiores para el aprendizaje profundo frente a la eficiencia del teclado.
-​Colonización Algorítmica: El peligro de usar las pantallas como "tapones emocionales" en la infancia y cómo los algoritmos están diseñando consumidores en lugar de pensadores.
-​El Camino a la Solución: Estrategias para usar la tecnología como un potenciador de la productividad sin sacrificar el juicio ético ni la conexión humana.
-​Acompáñanos en esta reflexión necesaria sobre cómo mantener nuestra esencia humana en un mundo cada vez más automatizado.</description>
+<title>Prueba</title>
+<description>Esta es una prueba de automation. </description>
 
 <link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=1LilEPUAYPMUjW3LNJxFUdSAz79w9pjop" length="21524747" type="audio/mp4"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=18FhOS2R7Wf-AFVJq7O6H4BvDUcXiO00e" length="1829518" type="audio/mp4"/>
 
-<guid>criterio-prompt-15</guid>
+<guid>criterio-prompt-0</guid>
 
-<pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
 
-<itunes:episode>15</itunes:episode>
+<itunes:episode>0</itunes:episode>
 
-<itunes:duration>0:11:08</itunes:duration>
+<itunes:duration>0:00:56</itunes:duration>
 
-<itunes:summary>Este episodio examina cómo la integración masiva de la IA y las pantallas transforma el cerebro humano. Se analiza la "mente hipoactiva" derivada de delegar tareas cognitivas, el contraste entre el aprendizaje profundo de la escritura manual frente a la digital, y el riesgo de la "colonización algorítmica" en el desarrollo infantil. Finalmente, se propone un modelo de uso tecnológico que potencie la productividad sin sustituir el criterio propio ni los vínculos afectivos.</itunes:summary>
+<itunes:summary>Prueba de RSS</itunes:summary>
 
 
 </item>
 <item>
-<title>10.Therians, ¿moda o trastorno?</title>
-<description>En este episodio de Criterio Prompt, nos adentramos en el fascinante y a menudo malentendido fenómeno Therian. Exploraremos qué significa tener una 'identidad Therian', una percepción interna e inmutable de ser, en esencia, un animal atrapado en un cuerpo humano, y cómo se distingue claramente del movimiento Furry. Desglosaremos el concepto de 'Theriotipo', las prácticas como el Quadrobics y el uso de accesorios como herramientas de expresión que no son obligatorias. Abordaremos la percepción social actual, incluyendo datos de México que revelan un 70% de rechazo al reconocimiento social, y desmentiremos la idea de que es un trastorno mental. Además, ofreceremos una guía esencial para padres y expertos sobre cómo fomentar una comunicación libre de juicios y cuándo buscar ayuda profesional, promoviendo la validación y el entendimiento de esta identidad única.</description>
+<title>9. Será el reciclaje la verdadera solución? </title>
+<description>
+En este episodio de Criterio Prompt, desmenuzamos el alarmante panorama revelado por el Índice Global de Residuos 2025. Descubre por qué México ostenta el título de líder mundial en consumo de refrescos, con un promedio impactante de 166 litros per cápita, y cómo esta cifra se traduce directamente en una triple crisis: ambiental, sanitaria y de infraestructura. Analizamos el PET, que se ha convertido en el verdadero 'tapón' del drenaje urbano, responsable del 40% de los residuos plásticos que causan inundaciones devastadoras en el Valle de México, a la par de las 24,000 muertes anuales vinculadas a los problemas de salud por el consumo en estos envases. Abordamos las soluciones urgentes y comprobadas, desde el éxito del Sistema de Depósito (DRS) implementado por líderes globales como Alemania y Estonia, hasta la necesidad de establecer la Responsabilidad Extendida del Productor y la propuesta de prohibir el PET en bebidas azucaradas, migrando a vidrio o aluminio</description>
 
 <link>https://criterio-prompt-rss3.pages.dev</link>
-<enclosure url="https://drive.google.com/uc?export=download&amp;id=1TdYjJ57rJKDdnw81HiE1DCoqJ6Udj2SD" length="33827019" type="audio/mp4"/>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1opXi5_teeddDQkB11UbLSj7LMKaotxAL" length="29748175" type="audio/mp4"/>
 
-<guid>criterio-prompt-10</guid>
+<guid>criterio-prompt-9</guid>
 
-<pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+<pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
 
-<itunes:episode>10</itunes:episode>
+<itunes:episode>9</itunes:episode>
 
-<itunes:duration>0:17:31</itunes:duration>
+<itunes:duration>0:15:24</itunes:duration>
 
-<itunes:summary>En este episodio de Criterio Prompt, nos adentramos en el fascinante y a menudo malentendido fenómeno Therian. Exploraremos qué significa tener una 'identidad Therian', una percepción interna e inmutable de ser, en esencia, un animal atrapado en un cuerpo humano, y cómo se distingue claramente del movimiento Furry. </itunes:summary>
+<itunes:summary>Hoy analizamos: México es el líder mundial en consumo de refrescos, y la consecuencia directa es una crisis de residuos, principalmente PET</itunes:summary>
 
 
 </item>
