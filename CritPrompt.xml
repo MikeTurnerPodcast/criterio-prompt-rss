@@ -18,9 +18,7 @@
 <itunes:category text="Technology"/>
 
 
-<!--Nuevo Episodio-->
-
-<item>
+<Nuevo_Episodio><item>
 <title></title>
 <description></description>
 
