@@ -17,7 +17,26 @@
 <itunes:image href="https://criterio-prompt-rss3.pages.dev/cover.jpg"/>
 <itunes:category text="Technology"/>
 
-<Nuevo_Episodio>  
+
+<Nuevo_Episodio><item>
+<title></title>
+<description></description>
+
+<link>https://criterio-prompt-rss3.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1MTiNdg37qvQjZ_Tk8oP5q6idtBUSs-xb" length="42385377" type="audio/mp4"/>
+
+<guid>criterio-prompt-</guid>
+
+<pubDate></pubDate>
+
+<itunes:episode></itunes:episode>
+
+<itunes:duration></itunes:duration>
+
+<itunes:summary></itunes:summary>
+
+
+</item>  
   
 <item>
 <title>15. Como la IA está afectando a adolescentes</title>
