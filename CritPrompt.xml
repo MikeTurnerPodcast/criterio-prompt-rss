@@ -18,7 +18,33 @@
 <itunes:category text="Technology"/>
 
 
+
 <!--Nuevo Episodio-->
+<item>
+<title>16. Estafas con IA, no seas victima. </title>
+<description>¿Sabrías distinguir si la voz de un familiar al teléfono es real o una clonación por IA? En este episodio de Criterio Prompt, desglosamos la "Guía Práctica contra Estafas de Inteligencia Artificial".
+​Exploramos:
+​Banderas Rojas: Desde el efecto "Casa de Cera" en videos hasta anomalías en la sincronización labial.
+​El Método P.A.R.I.: Una estrategia infalible de cuatro pasos (Para, Analiza, Revisa, Investiga) para validar cualquier información sospechosa.
+​Seguridad Familiar: Por qué hoy más que nunca necesitas establecer una "Palabra Clave" con tus seres queridos.
+​Herramientas de combate: Cómo usar VirusTotal, Google Safe Browsing y PhishTank para protegerte.
+​No dejes que el 77% de las víctimas que pierden dinero seas tú. ¡Dale play y blinda tu seguridad digital!</description>
+
+<link>https://criterio-prompt-rss3.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1rY0O_vHJnlv2XYC-iEPeUkGtlZtyugB5" length="25150023" type="audio/mp4"/>
+
+<guid>criterio-prompt-16</guid>
+
+<pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+
+<itunes:episode>16</itunes:episode>
+
+<itunes:duration>0:13:01</itunes:duration>
+
+<itunes:summary></itunes:summary>
+
+
+</item>
 <item>
 <title>5. Cacao Mexicano</title>
 <description>En este nuevo episodio de Criterio Prompt, destapamos la crisis silenciosa del cacao mexicano. No se trata solo de números bajos, sino de una dolorosa paradoja: poseemos el 'cacao fino de aroma' más preciado, pero los problemas estructurales no nos permiten competir. Hoy aplicamos la lupa a los factores que han estrangulado la producción nacional, desde la raíz</description>
