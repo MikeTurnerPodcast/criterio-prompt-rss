@@ -25,7 +25,34 @@
 
 
 
+
 <!--Nuevo Episodio-->
+<item>
+<title>34. Salud mental & IA: ¿Diagnóstico brillante pero cero empatía? 🧠💔🤖 </title>
+<description>​¿Puede un algoritmo entender realmente tu dolor? En este episodio de Criterio Prompt, ponemos a prueba a más de 30 modelos de Inteligencia Artificial (GPT-4o, Gemini 2.0-Flash, Llama 3) en tareas de salud mental. Los datos son contundentes: la IA es un titán procesando conocimiento psiquiátrico, pero aún enfrenta un abismo cuando se trata de replicar la empatía humana.
+​El desglose clínico de este capítulo:
+​Brillantez clínica y teórica: Un 85% de detección en trastornos como la depresión y un impresionante 91.2% de precisión en conocimiento psiquiátrico teórico con modelos como Llama 3.1 405b. 📚🩺
+​El truco del aprendizaje "Few-shot": Cómo darle ejemplos previos al modelo reduce drásticamente el error al evaluar la gravedad de los síntomas. ⚙️
+​La Brecha Cognitivo-Afectiva: La gran paradoja. Alta fiabilidad en seguridad e información, pero inestabilidad afectiva e inconsistencia en apoyo emocional real. 💔⚖️
+​Modelos cerrados vs. abiertos: Por qué GPT-4o y Gemini 2.0-Flash ofrecen el soporte terapéutico más equilibrado frente a las alternativas de código abierto. 🔒
+​El peligro de patologizar todo: Cuidado con los modelos pequeños. Analizamos el riesgo de "falsos positivos" donde arquitecturas menores tienden a clasificar menciones casuales de estrés como depresión moderada. ⚠️
+​¡Un capítulo fundamental sobre los límites éticos, clínicos y emocionales de la tecnología en la mente humana!</description>
+
+<link>https://criterio-prompt-rss3.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1vJatEf5hn0kP5fAJEB9OG-XiKbU9iw9C" length="39071592" type="audio/mp4"/>
+
+<guid>criterio-prompt-34</guid>
+
+<pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+
+<itunes:episode>34</itunes:episode>
+
+<itunes:duration>0:20:13</itunes:duration>
+
+<itunes:summary>​¡La mente humana frente a los algoritmos! Evaluación de más de 30 modelos que demuestra una precisión clínica destacada (85% en detección y 91.2% en teoría psiquiátrica), pero evidencia una clara "brecha cognitivo-afectiva". Destacamos el equilibrio terapéutico de modelos como GPT-4o y Gemini 2.0-Flash, frente a los riesgos de inestabilidad empatica y falsos positivos en arquitecturas menores.</itunes:summary>
+
+
+</item>
 <item>
 <title>33. Autos Autónomos y Eléctricos: ¿El fin del volante para 2035? 🚗⚡🤖</title>
 <description>​¡El futuro del transporte se está acelerando a toda velocidad! En este episodio de Criterio Prompt, miramos hacia el horizonte de 2035 para analizar cómo la conducción autónoma y los vehículos eléctricos están listos para revolucionar nuestras calles, eliminar accidentes y cambiar la forma en que nos movemos. ¿Estamos realmente preparados para soltar el volante o los vacíos legales frenarán esta revolución?
