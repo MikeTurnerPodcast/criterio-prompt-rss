@@ -26,7 +26,27 @@
 
 
 
+
 <!--Nuevo Episodio-->
+<item>
+<title></title>
+<description></description>
+
+<link>https://criterio-prompt-rss3.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1XIWQNOlAdFKaCo4nYHUtXFnUYPG1TBDn" length="44608373" type="audio/mp4"/>
+
+<guid>criterio-prompt-</guid>
+
+<pubDate></pubDate>
+
+<itunes:episode></itunes:episode>
+
+<itunes:duration></itunes:duration>
+
+<itunes:summary></itunes:summary>
+
+
+</item>
 <item>
 <title>34. Salud mental and IA: ¿Diagnóstico brillante pero cero empatía? 🧠💔🤖 </title>
 <description>​¿Puede un algoritmo entender realmente tu dolor? En este episodio de Criterio Prompt, ponemos a prueba a más de 30 modelos de Inteligencia Artificial (GPT-4o, Gemini 2.0-Flash, Llama 3) en tareas de salud mental. Los datos son contundentes: la IA es un titán procesando conocimiento psiquiátrico, pero aún enfrenta un abismo cuando se trata de replicar la empatía humana.
