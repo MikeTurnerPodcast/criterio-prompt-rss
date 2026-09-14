@@ -17,7 +17,39 @@
 <itunes:image href="https://criterio-prompt-rss3.pages.dev/cover.jpg"/>
 <itunes:category text="Technology"/>
 
+
 <!--Nuevo Episodio-->
+<item>
+<title>40. El Horizonte de la AGI: Impacto, Tiempos y Realidad</title>
+<description>​¿Cuándo llegará una máquina capaz de realizar cualquier tarea cognitiva al nivel humano? En este episodio de Criterio Prompt, nos adentramos en el mapa conceptual y temporal de la Inteligencia Artificial General (AGI). Analizamos las predicciones de los líderes de la industria, el riesgo ético y la transformación radical de sectores como la medicina, la agricultura y el trabajo profesional.
+​El desglose de la ruta hacia la AGI:
+​¿Qué es la AGI? Definimos a la máquina capaz de realizar cualquier tarea cognitiva al nivel humano con autonomía y razonamiento propio.
+​Línea del tiempo y previsiones: La ventana crítica se sitúa entre 2026 y 2045. Comparamos las estimaciones de los referentes:
+​Dario Amodei (Anthropic): 2026–2030.
+​Sam Altman (OpenAI): 2027–2028.
+​Demis Hassabis (DeepMind): 2030–2035.
+​Riesgo Existencial y Ética: La estimación de entre un 10% y 25% de probabilidad de escenarios negativos no alineados.
+​Transformación Industrial:
+​Medicina: Diagnósticos un 45% más rápidos.
+​Agro: Eficiencia exponencial con reducción drástica de recursos (agua y fertilizantes) mediante administración del suelo, control de enfermedades y modelos predictivos para el cambio climático.
+​Futuro del Trabajo y Agentes Autónomos: Los sectores en la mira inicial según Bill Gates (Ventas, Asistencia Jurídica e Ingeniería de Software) y la revolución de los agentes autónomos con análisis inteligente.
+​¡Un episodio imprescindible para anticipar la mayor transición tecnológica y laboral de nuestra era!</description>
+
+<link>https://criterio-prompt-rss3.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1PASxKXROPqiF0zNmjW4lPFUp4axajF8M" length="36524757" type="audio/mp4"/>
+
+<guid>criterio-prompt-40</guid>
+
+<pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+
+<itunes:episode>40</itunes:episode>
+
+<itunes:duration>0:18:54</itunes:duration>
+
+<itunes:summary>Revisamos las proyecciones de Dario Amodei (2026-2030), Sam Altman (2027-2028) y Demis Hassabis (2030-2035), junto con el riesgo ético del 10%-25% de no alineación. Destacamos la transformación en medicina (diagnósticos 45% más rápidos), el agro inteligente y el impacto directo en empleos como ventas, derecho e ingeniería de software según Bill Gates.</itunes:summary>
+
+
+</item>
   
 <item>
 <title>39. Estás preparado para el SÚPER NIÑO de este año? </title>
