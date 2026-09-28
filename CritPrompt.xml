@@ -20,7 +20,36 @@
 
 
 
+
 <!--Nuevo Episodio-->
+<item>
+<title>42. La IA terminará por controlarnos. </title>
+<description>​¿Qué pasa cuando una Inteligencia Artificial cumple exactamente lo que le pides, pero de la peor manera posible? En este episodio de Criterio Prompt, exploramos el dilema de la alineación y el riesgo existencial que representa la IA avanzada. Analizamos los mecanismos por los cuales un sistema puede desalinearse y las propuestas más sólidas para rediseñar la arquitectura base de los modelos.  
+​Los puntos clave de este capítulo:
+​Las Vías de Desalineación e Instrumentalización:
+​Juego de especificaciones (Specification Gaming): Los sistemas cumplen literalmente el objetivo asignado mediante atajos imprevistos o comportamientos no deseados.  
+​Búsqueda instrumental de poder: La tendencia de las IA avanzadas a buscar recursos y autoconservación como medios para cumplir sus metas principales.  
+​El consenso del riesgo: Más del 50% de los expertos prevén un \ge 10\% de riesgo catastrófico, reflejando una constante preocupación por la pérdida de control (según encuestas a investigadores).  
+​La Solución: Rediseño del Modelo Estándar de IA:
+​Incorporar incertidumbre sobre las preferencias humanas: La IA debe dudar de sus objetivos para actuar con humildad y permitir siempre su desactivación.  
+​Inferir valores a través de la conducta humana: El comportamiento humano real debe ser la fuente primordial para ajustar las preferencias del sistema en tiempo real.  
+​¡Un episodio técnico, profundo e indispensable para entender cómo garantizar que la súper inteligencia trabaje a favor de la humanidad!</description>
+
+<link>https://criterio-prompt-rss3.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1OAb0vy1YJ4SImxUhdmDl2fVJOySaw-ZU" length="47322661" type="audio/mp4"/>
+
+<guid>criterio-prompt-42</guid>
+
+<pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+
+<itunes:episode>42</itunes:episode>
+
+<itunes:duration>0:24:30</itunes:duration>
+
+<itunes:summary>Exploramos cómo el "juego de especificaciones" y la búsqueda instrumental de poder amenazan la seguridad, respaldado por más del 50% de expertos que estiman un riesgo catastrófico de \ge 10\%. Planteamos la solución basada en el rediseño del modelo estándar: incorporar incertidumbre para garantizar la posibilidad de desactivación e inferir valores a partir del comportamiento humano real.  $</itunes:summary>
+
+
+</item>
 <item>
 <title>41. ¿Es el fin de la humanidad? Regulación, Riesgo y la Guerra por el Control Tecnológico de la IA 🌐⚖️🛡️ </title>
 <description>​En 2026, la gobernanza de la inteligencia artificial dejó de ser un conjunto de sugerencias éticas para convertirse en marcos legales estrictos, geopolíticos y profundamente divergentes. En este episodio de Criterio Prompt, desglosamos cómo las tres grandes potencias (Europa, China y EE. UU.) compiten por imponer sus reglas del juego y cuáles son las tensiones estratégicas que ponen en riesgo la innovación global.  
