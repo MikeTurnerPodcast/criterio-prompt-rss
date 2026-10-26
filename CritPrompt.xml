@@ -24,7 +24,42 @@
 
 
 
+
 <!--Nuevo Episodio-->
+<item>
+<title>46. Agentes autónomos en el trabajo diario. ¿Tu trabajo peligra? </title>
+<description>Agentes de IA Autónomos: El fin del RPA y la Nueva Era de la Automatización Empresarial 🤖🚀💼
+​¿Te imaginas una IA que no solo siga reglas, sino que razone, tome decisiones y ejecute procesos completos por sí misma? En este episodio de Criterio Prompt, desglosamos la infografía sobre los Agentes de IA Autónomos, la tecnología que está dejando atrás a la Automatización Robótica de Procesos (RPA) tradicional. Analizamos cómo estos agentes utilizan percepción, memoria a largo plazo y herramientas (APIs) para lograr un incremento del 60% en la productividad operativa y un ROI estimado superior al 100%.
+​En este capítulo abordamos:
+​Del RPA al Razonamiento Adaptativo: Por qué los agentes de IA marcan un cambio de paradigma al analizar contexto y tomar decisiones dinámicas, a diferencia de las reglas fijas del RPA.
+​Arquitectura Integral: Desglosamos los pilares que permiten a estos agentes ejecutar procesos de extremo a extremo: Percepción, Memoria y Herramientas.
+​Gobernanza y Adopción Segura:
+​Human-in-the-Loop: La importancia de exigir aprobación humana en transacciones financieras o de alto riesgo.
+​Mitigación de Riesgos: Cómo las auditorías y controles de acceso por roles evitan la propagación de errores entre sistemas.
+​Despliegue por Fases: La estrategia de iniciar en procesos de alta fricción e intensivos en datos antes de escalar la arquitectura.
+​¡Un episodio fundamental para líderes empresariales, tecnólogos y cualquier persona interesada en el futuro de la eficiencia y la inteligencia en el trabajo!</description>
+
+<link>https://criterio-prompt-rss3.pages.dev</link>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1mHlssaibouacVeExFSSluSpDyVSD4vvo" length="49641714" type="audio/mp4"/>
+
+<guid>criterio-prompt-46</guid>
+
+<pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+
+<itunes:episode>46</itunes:episode>
+
+<itunes:duration>0:25:41</itunes:duration>
+
+<itunes:summary>​¡La automatización empresarial evoluciona! 🚨 En este video analizamos la infografía sobre los Agentes de IA Autónomos. Descubre cómo esta tecnología supera al RPA tradicional al pasar de la ejecución determinista al razonamiento adaptativo, logrando un incremento del 60% en la productividad operativa y un ROI estimado superior al 100%.
+​Lo que aprenderás en este video:
+​🧠 RPA vs. Agentes de IA: ¿Por qué las reglas fijas se quedan cortas frente a las decisiones dinámicas basadas en contexto?
+​🛠️ Arquitectura de Agentes: Percepción, memoria a largo plazo y herramientas (APIs) para ejecutar procesos completos.
+​🛡️ Gobernanza y Adopción Segura: Implementación de controles "Human-in-the-Loop" y mitigación de riesgos mediante auditorías.
+​🛣️ Hoja de Ruta: Estrategia para un despliegue en fases iniciando en procesos de alta fricción.
+​¡Súbete a la nueva era de la automatización empresarial y potencia la competitividad de tu organización!</itunes:summary>
+
+
+</item>
 <item>
 <title>45. Lo que sigue para los autos voladores. </title>
 <description>​¡Ya no es solo experimentación, es el giro estratégico que define la competitividad empresarial hacia 2026! En este episodio de Criterio Prompt, desglosamos la infografía sobre el Panorama Tecnológico 2026, una radiografía de cómo las organizaciones están pasando de las pruebas de concepto a un impacto medible y escalable. Analizamos el "Modelo Tesla" de reinvención del core del negocio y por qué los datos y la ciberseguridad se han convertido en los principales cuellos de botella.
